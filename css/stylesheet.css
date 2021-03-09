@@ -1,0 +1,116 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+
+header{
+    background-color: dodgerblue;
+    height: 100px;
+}
+
+.header-logo{
+    float:left;
+    padding: 10px 20px;
+}
+
+.header-list li{
+    list-style:none;
+    float:left;
+    padding: 20px 10px;
+}
+
+
+main{
+    background-color: cornsilk;
+}
+
+main h2{
+    padding:10px 20px;
+}
+
+main h3{
+    padding:0px 20px;
+}
+.language{
+    /*height:1000px;*/
+    /*background-color: thistle;*/
+}
+
+.img{
+    height:200px;
+}
+
+.contents-item{
+    float:left;
+    padding:10px 30px;
+    height:300px;
+    /*background-color: red;*/
+}
+
+.secondImg{
+    clear:both;
+    height:300px;
+    /*background-color: yellowgreen;*/
+}
+
+.contents-item2{
+    height:300px;
+    padding:10px 30px;
+    float:left;
+    /*background-color: salmon;*/
+}
+
+.otherss{
+    /*height:200px;*/
+    /*background-color: seagreen;*/
+    height:400px;
+}
+
+.contents-item3{
+    float:left;
+    padding:10px 30px;
+    /*background-color: yellow;*/
+}
+
+.contact-form{
+    height:300px;
+    clear:both;
+}
+
+.contact-form p{
+    padding:0px 30px;
+}
+
+input,textarea{
+    margin:0px 30px;
+    border:1px solid gray;
+    font-size:18px;
+}
+
+.contact-submit{
+    margin-left: 30px;
+    padding:5px;
+}
+
+footer{
+    /*height:100px;*/
+    padding:10px 20px;
+    background-color: cornflowerblue;
+    height:100px;
+}
+
+footer h1{
+    float:left;
+}
+
+.footer-list{
+    height:100px;
+    /*background-color: turquoise;*/
+    float:right;
+}
+
+footer li{
+    list-style:none;
+    font-size:18px;
+    padding:5px 5px;
+}
