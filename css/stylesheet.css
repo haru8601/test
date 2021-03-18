@@ -97,20 +97,20 @@ footer{
     /*height:100px;*/
     padding:10px 20px;
     background-color: cornflowerblue;
-    height:100px;
+    height:150px;
 }
 
-footer h1{
+.footer-left{
+    /*background-color: red;*/
     float:left;
 }
 
 .footer-list{
-    height:100px;
-    /*background-color: turquoise;*/
+    /*background-color: red;*/
     float:right;
 }
 
-footer li{
+.footer-list li{
     list-style:none;
     font-size:18px;
     padding:5px 5px;
