@@ -57,8 +57,12 @@
         float:none;
     }
 
+    .footer-list ul{
+        margin:0 auto;
+    }
+
     .footer-list li{
-        display: inline-block;
+        float:left;
     }
 
 }

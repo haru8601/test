@@ -27,7 +27,6 @@ header{
 .menu-icon{
     display:none;
     float:right;
-    color:black;
 }
 
 main{
@@ -83,7 +82,7 @@ main h2,h3{
     /*background-color: red;*/
 }
 
-.clear{
+.claer{
     clear:both;
 }
 

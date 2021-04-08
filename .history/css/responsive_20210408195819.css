@@ -45,20 +45,4 @@
         text-align: center;
     }
 
-    .footer-left{
-        float:none;
-    }
-
-    .footer-left li{
-        text-align: left;
-    }
-
-    .footer-list{
-        float:none;
-    }
-
-    .footer-list li{
-        display: inline-block;
-    }
-
 }
