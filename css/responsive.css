@@ -1,0 +1,44 @@
+@media(max-width:1000px){
+    header{
+        background-color: green;
+    }
+
+    .contents-item{
+        width:50%;
+        height:1000px;
+    }
+}
+
+@media(max-width:670px){
+    header{
+        background-color: red;
+    }
+
+    .header-list{
+        display:none;
+    }
+
+    .menu-icon{
+        display:block;
+        padding-top:10px;
+        padding-right:10px;
+        font-size:24px;
+    }
+
+    .language, .otherss, .contact-form{
+        text-align: center;
+    }
+
+    .contents-item, .contents-item3{
+        width:70%;
+        height:auto;
+        float:none;
+        margin:0 auto;
+    }
+
+    .contact-form h2{
+        float:none;
+        height:auto;
+    }
+
+}
