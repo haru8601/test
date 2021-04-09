@@ -99,7 +99,7 @@ main h2,h3{
 }
 
 .texttest{
-    text-align:center;
+    margin:20px auto;
     letter-spacing:6px;
     opacity:0.5;
     font-weight:bold;
